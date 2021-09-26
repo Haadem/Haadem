@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.watercircles.no/Static/img/logo-wtc_forsikring.svghttps://imgur.com/a/W7LVtvk" alt="WaterCircles">
+  <img src="https://imgur.com/a/W7LVtvk" alt="WaterCircles">
 </p>
 
 # Haadem
