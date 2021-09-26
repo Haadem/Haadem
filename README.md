@@ -13,10 +13,13 @@
 
 ## Startups and Companies
 
+### Aeda
+
+
 ### Keevai
 
 
-### Aeda
+
 
 
 <br />
@@ -56,7 +59,7 @@
 ---
 
 
-[![Haadem's GitHub stats](https://github-readme-stats.vercel.app/api?username=haadem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Haadem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haadem&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haadem)](https://github.com/anuraghazra/github-readme-stats)
