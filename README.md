@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.watercircles.no/Static/img/logo-wtc_forsikring.svg" alt="WaterCircles">
+  <img src="https://www.watercircles.no/Static/img/logo-wtc_forsikring.svghttps://imgur.com/a/W7LVtvk" alt="WaterCircles">
 </p>
 
 # Haadem
@@ -33,6 +33,14 @@
 
 <br />
 <br />
+
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 
 
