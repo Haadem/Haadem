@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/a/W7LVtvk" alt="WaterCircles">
+  <img src="https://i.imgur.com/VTFr3aL.png" alt="Haadem">
 </p>
 
 # Haadem
