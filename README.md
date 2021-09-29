@@ -5,6 +5,7 @@
 # Haadem
 
 [![Website](https://img.shields.io/website?label=Keevai.com&style=for-the-badge&url=https%3A%2F%2Fkeevai.com)](http://keevai.com)
+[![Website](https://img.shields.io/website?label=Keevai.com&style=for-the-badge&url=https%3A%2F%2Fkeev.ai)](http://keev.ai)
 [![Website](https://img.shields.io/website?label=Aeda.tech&style=for-the-badge&url=https%3A%2F%2Faeda.tech)](http://aeda.tech)
 
 
