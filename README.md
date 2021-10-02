@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 📔 Created new repository [Haadem/haadem](https://github.com/Haadem/haadem)
-4. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
-5. ⭐ Starred [NVlabs/stylegan](https://github.com/NVlabs/stylegan)
+1. ⭐ Starred [rosasalberto/StyleGAN2-TensorFlow-2.x](https://github.com/rosasalberto/StyleGAN2-TensorFlow-2.x)
+2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+4. 📔 Created new repository [Haadem/haadem](https://github.com/Haadem/haadem)
+5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 2nd, 2021, 2:36:52 PM
+Last Updated: Saturday, October 2nd, 2021, 3:17:00 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
