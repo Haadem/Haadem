@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [otovo/python-brreg](https://github.com/otovo/python-brreg)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ⭐ Starred [brreg/regnskapsregister-api](https://github.com/brreg/regnskapsregister-api)
+2. ⭐ Starred [otovo/python-brreg](https://github.com/otovo/python-brreg)
 3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 4. 📔 Created new repository [Haadem/haadem](https://github.com/Haadem/haadem)
 5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 18th, 2022, 1:33:55 PM
+Last Updated: Friday, February 18th, 2022, 2:04:38 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
