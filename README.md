@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brreg/regnskapsregister-api](https://github.com/brreg/regnskapsregister-api)
-2. ⭐ Starred [otovo/python-brreg](https://github.com/otovo/python-brreg)
-3. ⭐ Starred [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
+2. ⭐ Starred [brreg/regnskapsregister-api](https://github.com/brreg/regnskapsregister-api)
+3. ⭐ Starred [otovo/python-brreg](https://github.com/otovo/python-brreg)
 4. 📔 Created new repository [Haadem/haadem](https://github.com/Haadem/haadem)
 5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 18th, 2022, 6:39:31 PM
+Last Updated: Monday, April 18th, 2022, 7:04:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
