@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)
-2. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
-3. ⭐ Starred [brreg/regnskapsregister-api](https://github.com/brreg/regnskapsregister-api)
+1. ⭐ Starred [facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
+2. ⭐ Starred [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)
+3. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
 4. ⭐ Starred [otovo/python-brreg](https://github.com/otovo/python-brreg)
 5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 29th, 2022, 1:11:11 PM
+Last Updated: Sunday, May 29th, 2022, 1:39:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
