@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
-2. ⭐ Starred [facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
-3. ⭐ Starred [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)
-4. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
-5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
+1. ⭐ Starred [fabiorodp/uio_master_thesis](https://github.com/fabiorodp/uio_master_thesis)
+2. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
+3. ⭐ Starred [facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
+4. ⭐ Starred [NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)
+5. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 16th, 2022, 7:34:21 AM
+Last Updated: Thursday, June 16th, 2022, 8:05:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
