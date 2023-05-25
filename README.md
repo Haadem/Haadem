@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles)
-2. 📔 Created new repository [Haadem/mlflowpipeline](https://github.com/Haadem/mlflowpipeline)
+1. 📔 Created new repository [Haadem/dotfiles](https://github.com/Haadem/dotfiles)
+2. ⭐ Starred [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles)
 3. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
 4. ⭐ Starred [facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
 5. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 25th, 2023, 10:04:46 AM
+Last Updated: Thursday, May 25th, 2023, 10:33:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
