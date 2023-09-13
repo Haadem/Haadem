@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kaernlab/YeastNet](https://github.com/kaernlab/YeastNet)
-2. ⭐ Starred [casact/tryangle](https://github.com/casact/tryangle)
-3. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
+1. ⭐ Starred [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black)
+2. ⭐ Starred [kaernlab/YeastNet](https://github.com/kaernlab/YeastNet)
+3. ⭐ Starred [casact/tryangle](https://github.com/casact/tryangle)
 4. ⭐ Starred [facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
 5. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 13th, 2023, 3:04:33 PM
+Last Updated: Wednesday, September 13th, 2023, 3:33:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
