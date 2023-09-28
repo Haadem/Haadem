@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)
-2. ⭐ Starred [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black)
-3. ⭐ Starred [kaernlab/YeastNet](https://github.com/kaernlab/YeastNet)
-4. ⭐ Starred [casact/tryangle](https://github.com/casact/tryangle)
-5. ⭐ Starred [lucidrains/DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch)
+1. ⭐ Starred [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear)
+2. ⭐ Starred [vivva/DLinear](https://github.com/vivva/DLinear)
+3. ⭐ Starred [plumprc/MTS-Mixers](https://github.com/plumprc/MTS-Mixers)
+4. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)
+5. ⭐ Starred [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 28th, 2023, 1:05:48 PM
+Last Updated: Thursday, September 28th, 2023, 1:34:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
