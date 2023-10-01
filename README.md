@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear)
-2. ⭐ Starred [vivva/DLinear](https://github.com/vivva/DLinear)
-3. ⭐ Starred [plumprc/MTS-Mixers](https://github.com/plumprc/MTS-Mixers)
-4. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)
-5. ⭐ Starred [dnanhkhoa/nb_black](https://github.com/dnanhkhoa/nb_black)
+1. ⭐ Starred [ts-kim/RevIN](https://github.com/ts-kim/RevIN)
+2. ⭐ Starred [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear)
+3. ⭐ Starred [vivva/DLinear](https://github.com/vivva/DLinear)
+4. ⭐ Starred [plumprc/MTS-Mixers](https://github.com/plumprc/MTS-Mixers)
+5. ⭐ Starred [pola-rs/polars](https://github.com/pola-rs/polars)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 1st, 2023, 3:33:24 PM
+Last Updated: Sunday, October 1st, 2023, 4:04:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
