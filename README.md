@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-2. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)
-3. ⭐ Starred [ts-kim/RevIN](https://github.com/ts-kim/RevIN)
-4. ⭐ Starred [cure-lab/LTSF-Linear](https://github.com/cure-lab/LTSF-Linear)
-5. ⭐ Starred [vivva/DLinear](https://github.com/vivva/DLinear)
+1. ⭐ Starred [gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)
+2. ⭐ Starred [rsheftel/pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars)
+3. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+4. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)
+5. ⭐ Starred [ts-kim/RevIN](https://github.com/ts-kim/RevIN)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 7th, 2023, 8:04:36 PM
+Last Updated: Saturday, October 7th, 2023, 8:33:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
