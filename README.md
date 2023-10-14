@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
-2. ⭐ Starred [gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)
-3. ⭐ Starred [rsheftel/pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars)
-4. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-5. ⭐ Starred [mistralai/mistral-src](https://github.com/mistralai/mistral-src)
+1. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
+2. ⭐ Starred [prediqtiv/alpha-vantage-cookbook](https://github.com/prediqtiv/alpha-vantage-cookbook)
+3. ⭐ Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+4. ⭐ Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
+5. ⭐ Starred [gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 14th, 2023, 5:04:20 PM
+Last Updated: Saturday, October 14th, 2023, 5:33:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
