@@ -57,15 +57,15 @@
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
-2. ⭐ Starred [prediqtiv/alpha-vantage-cookbook](https://github.com/prediqtiv/alpha-vantage-cookbook)
-3. ⭐ Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
-4. ⭐ Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
-5. ⭐ Starred [gerrymanoim/exchange_calendars](https://github.com/gerrymanoim/exchange_calendars)
+1. ⭐ Starred [jupyter-server/kernel_gateway](https://github.com/jupyter-server/kernel_gateway)
+2. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
+3. ⭐ Starred [prediqtiv/alpha-vantage-cookbook](https://github.com/prediqtiv/alpha-vantage-cookbook)
+4. ⭐ Starred [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage)
+5. ⭐ Starred [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 8:33:34 PM
+Last Updated: Friday, November 17th, 2023, 9:04:28 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
