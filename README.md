@@ -4,12 +4,13 @@
 
 # Haadem
 
+[![Website](https://img.shields.io/website?label=Aeda.tech&style=for-the-badge&url=https%3A%2F%2Faeda.no)](https://aeda.no)
 [![Website](https://img.shields.io/website?label=Keevai.com&style=for-the-badge&url=https%3A%2F%2Fkeevai.com)](https://keevai.com)
 <!--- 
 [![Website](https://img.shields.io/website?label=Keev.ai&style=for-the-badge&url=https%3A%2F%2Fkeev.ai)](https://keev.ai)
 [![Website](https://img.shields.io/website?label=Aeda.tech&style=for-the-badge&url=https%3A%2F%2Faeda.tech)](https://aeda.tech) 
 --->
-[![Website](https://img.shields.io/website?label=Aeda.tech&style=for-the-badge&url=https%3A%2F%2Faeda.no)](https://aeda.no)
+
 
 
 
