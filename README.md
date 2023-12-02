@@ -12,11 +12,6 @@
 --->
 
 
-
-
-
-## Startups and Companies
-
 ### Aeda
 Increase and Enhance your data with Aeda.
 
