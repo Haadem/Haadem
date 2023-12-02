@@ -25,7 +25,10 @@ AI generated images for artists and professionals.
 
 ### Languages and Tools:
 
-[<img align="left" alt="neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/neovim/neovim.png" />](https://neovim.io)
+<div align="center">
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37" alt="Neovim" title="Neovim"/></code>
+</div>
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
@@ -76,4 +79,4 @@ Last Updated: Saturday, December 2nd, 2023, 10:33:18 AM
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-[website]: https://keevai.com
+[website]: https://aeda.no
