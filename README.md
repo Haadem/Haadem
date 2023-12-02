@@ -54,7 +54,7 @@ AI generated images for artists and professionals.
 
 #### Startups
 
-#### Finance
+#### :moneybag: Finance
 
 
 ### 📕 Latest Blog Posts
