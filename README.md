@@ -13,7 +13,7 @@
 
 
 ### Aeda
-Increase and Enhance your data with Aeda.
+Increase and Enhance your data with [Aeda](https://wwww.aeda.no).
 
 ### Keevai
 AI generated images for artists and professionals.
