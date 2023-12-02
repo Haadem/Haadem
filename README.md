@@ -46,6 +46,16 @@ AI generated images for artists and professionals.
 <br />
 
 
+### :bulb: Areas
+
+#### Tech
+
+#### ML & AI
+
+#### Startups
+
+#### Finance
+
 
 ### 📕 Latest Blog Posts
 
