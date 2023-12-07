@@ -67,15 +67,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [enmodels/.github](https://github.com/enmodels/.github)
-2. ⭐ Starred [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
-3. ⭐ Starred [jupyter-server/kernel_gateway](https://github.com/jupyter-server/kernel_gateway)
-4. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
-5. ⭐ Starred [prediqtiv/alpha-vantage-cookbook](https://github.com/prediqtiv/alpha-vantage-cookbook)
+1. ⭐ Starred [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
+2. 📔 Created new repository [enmodels/.github](https://github.com/enmodels/.github)
+3. ⭐ Starred [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
+4. ⭐ Starred [jupyter-server/kernel_gateway](https://github.com/jupyter-server/kernel_gateway)
+5. ⭐ Starred [polakowo/vectorbt](https://github.com/polakowo/vectorbt)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 7th, 2023, 11:33:28 AM
+Last Updated: Thursday, December 7th, 2023, 12:06:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
