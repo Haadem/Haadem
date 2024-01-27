@@ -67,15 +67,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tlkh/asitop](https://github.com/tlkh/asitop)
-2. ⭐ Starred [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
-3. 📔 Created new repository [enmodels/.github](https://github.com/enmodels/.github)
-4. ⭐ Starred [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton)
-5. ⭐ Starred [jupyter-server/kernel_gateway](https://github.com/jupyter-server/kernel_gateway)
+1. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+2. 🔱 Forked [Haadem/ipykernel](https://github.com/Haadem/ipykernel) from [ipython/ipykernel](https://github.com/ipython/ipykernel)
+3. ⭐ Starred [tlkh/asitop](https://github.com/tlkh/asitop)
+4. ⭐ Starred [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
+5. 📔 Created new repository [enmodels/.github](https://github.com/enmodels/.github)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 27th, 2024, 5:33:26 PM
+Last Updated: Saturday, January 27th, 2024, 6:05:06 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
