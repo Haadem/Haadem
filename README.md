@@ -67,15 +67,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
-2. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
-3. 🔱 Forked [Haadem/ipykernel](https://github.com/Haadem/ipykernel) from [ipython/ipykernel](https://github.com/ipython/ipykernel)
-4. ⭐ Starred [tlkh/asitop](https://github.com/tlkh/asitop)
-5. ⭐ Starred [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science)
+1. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
+2. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
+3. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+4. 🔱 Forked [Haadem/ipykernel](https://github.com/Haadem/ipykernel) from [ipython/ipykernel](https://github.com/ipython/ipykernel)
+5. ⭐ Starred [tlkh/asitop](https://github.com/tlkh/asitop)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 14th, 2024, 7:04:30 PM
+Last Updated: Wednesday, February 14th, 2024, 7:33:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
