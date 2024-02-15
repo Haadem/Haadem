@@ -67,15 +67,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
-2. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
-3. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
-4. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
-5. 🔱 Forked [Haadem/ipykernel](https://github.com/Haadem/ipykernel) from [ipython/ipykernel](https://github.com/ipython/ipykernel)
+1. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
+2. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+3. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
+4. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
+5. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 15th, 2024, 12:38:49 PM
+Last Updated: Thursday, February 15th, 2024, 1:04:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
