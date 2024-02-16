@@ -14,7 +14,7 @@
 --->
 
 ### Home Page
-[Haadem](https://haadem.tech)
+Visit me at my [project page](https://haadem.tech) for more info about me.
 
 
 ### Aeda
