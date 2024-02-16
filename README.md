@@ -4,7 +4,7 @@
 
 # Haadem
 
-[![Website](https://img.shields.io/website?label=Haadem.no&style=for-the-badge&url=https%3A%2F%2Fhaadem.tech)](https://haadem.tech)
+[![Website](https://img.shields.io/website?label=Haadem.tech&style=for-the-badge&url=https%3A%2F%2Fhaadem.tech)](https://haadem.tech)
 [![Website](https://img.shields.io/website?label=Aeda.no&style=for-the-badge&url=https%3A%2F%2Faeda.no)](https://aeda.no)
 [![Website](https://img.shields.io/website?label=Enmodels.com&style=for-the-badge&url=https%3A%2F%2Fenmodels.com)](https://enmodels.com)
 [![Website](https://img.shields.io/website?label=Keevai.com&style=for-the-badge&url=https%3A%2F%2Fkeevai.com)](https://keevai.com)
