@@ -71,15 +71,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
-2. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
-3. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
-4. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
-5. 💪 Opened PR [#1200](https://github.com/ipython/ipykernel/pull/1200) in [ipython/ipykernel](https://github.com/ipython/ipykernel)
+1. ⭐ Starred [huggingface/optimum](https://github.com/huggingface/optimum)
+2. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
+3. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+4. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
+5. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 26th, 2024, 5:33:24 PM
+Last Updated: Monday, February 26th, 2024, 6:04:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
