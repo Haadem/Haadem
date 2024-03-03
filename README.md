@@ -71,15 +71,15 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [huggingface/optimum](https://github.com/huggingface/optimum)
-2. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
-3. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
-4. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
-5. ⭐ Starred [devias-io/material-kit-react](https://github.com/devias-io/material-kit-react)
+1. ⭐ Starred [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
+2. ⭐ Starred [huggingface/optimum](https://github.com/huggingface/optimum)
+3. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
+4. ⭐ Starred [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)
+5. ⭐ Starred [ml-explore/mlx](https://github.com/ml-explore/mlx)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 3rd, 2024, 12:37:55 PM
+Last Updated: Sunday, March 3rd, 2024, 1:04:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
