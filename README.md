@@ -71,7 +71,7 @@ AI generated images for artists and professionals.
 ### 📕 Latest Github Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [interpretml/interpret](https://github.com/interpretml/interpret)
+1. ⭐ Starred [muhwyndhamhp/gotes-mx](https://github.com/muhwyndhamhp/gotes-mx)
 2. ⭐ Starred [evidentlyai/evidently](https://github.com/evidentlyai/evidently)
 3. ⭐ Starred [huggingface/optimum](https://github.com/huggingface/optimum)
 4. ⭐ Starred [bhancockio/crew-ai-crash-course](https://github.com/bhancockio/crew-ai-crash-course)
@@ -79,7 +79,7 @@ AI generated images for artists and professionals.
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 5th, 2024, 4:37:26 PM
+Last Updated: Thursday, September 5th, 2024, 5:04:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
