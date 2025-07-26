@@ -1,49 +1,37 @@
-# Hi, I'm Haadem 👋
+# Haadem
 
-## 🌐 Connect & Explore
+Technology leader and entrepreneur focused on building scalable solutions at the intersection of AI, cloud infrastructure, and modern software architecture.
 
-[![Website](https://img.shields.io/website?label=haadem.tech&style=for-the-badge&url=https%3A%2F%2Fhaadem.tech)](https://haadem.tech)
-[![Website](https://img.shields.io/website?label=aeda.no&style=for-the-badge&url=https%3A%2F%2Faeda.no)](https://aeda.no)
-[![Website](https://img.shields.io/website?label=enmodels.com&style=for-the-badge&url=https%3A%2F%2Fenmodels.com)](https://enmodels.com)
-[![Website](https://img.shields.io/website?label=approach.no&style=for-the-badge&url=https%3A%2F%2Fapproach.no)](https://approach.no)
+## Current Ventures
 
-## 🚀 Projects & Companies
+**[Aeda](https://aeda.no)** — Data augmentation and enhancement platform leveraging machine learning to transform how businesses interact with their data.
 
-### [Aeda](https://aeda.no)
-Enhance and augment your data with cutting-edge solutions.
+**[Enmodels](https://enmodels.com)** — Advanced modeling and simulation solutions for complex engineering challenges.
 
-### [Enmodels](https://enmodels.com)
-Advanced modeling and simulation solutions.
+**[Approach](https://approach.no)** — Strategic technology consulting, helping enterprises navigate digital transformation and adopt cutting-edge technologies.
 
-### [Approach](https://approach.no)
-Strategic technology consulting and implementation.
+## Technical Expertise
 
-## 💻 Tech Stack
+### Core Technologies
+`Python` `Go` `JavaScript/TypeScript` `C/C++` `C#`
 
-<div align="center">
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png" alt="Go" title="Go"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" alt="TensorFlow" title="TensorFlow"/></code>
-	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/197845567-86a09ca9-d96f-42c4-9ab1-8bce95ab000d.png" alt="Databricks" title="Databricks"/></code>
-</div>
+### Cloud & Infrastructure
+`AWS` `Google Cloud Platform` `Microsoft Azure` `Docker` `Kubernetes` `Terraform`
 
+### Data & AI
+`TensorFlow` `PyTorch` `Databricks` `Apache Spark` `MLOps`
 
-## 🎯 Areas of Expertise
+### Architecture
+`Microservices` `Event-Driven Systems` `gRPC` `REST APIs` `GraphQL`
 
-- **Technology & Engineering** - Full-stack development, cloud architecture, and DevOps
-- **Machine Learning & AI** - Building intelligent systems and data-driven solutions
-- **Startups & Innovation** - Turning ideas into scalable businesses
-- **Finance & FinTech** - Creating modern financial technology solutions
+## Focus Areas
 
-## 📊 GitHub Activity
+- **Distributed Systems** — Building resilient, scalable architectures for high-performance applications
+- **Machine Learning Engineering** — Deploying ML models at scale with robust MLOps practices
+- **Cloud Native Development** — Leveraging modern cloud patterns for efficient, maintainable solutions
+- **Financial Technology** — Creating secure, compliant systems for modern financial services
+
+## Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab)
@@ -57,9 +45,11 @@ Strategic technology consulting and implementation.
 Last Updated: Saturday, July 26th, 2025, 10:05:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
-## 📈 GitHub Stats
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haadem&count_private=true&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haadem&layout=compact&theme=default" alt="Top Languages" />
+  <a href="https://haadem.tech">Portfolio</a> •
+  <a href="https://aeda.no">Aeda</a> •
+  <a href="https://enmodels.com">Enmodels</a> •
+  <a href="https://approach.no">Approach</a>
 </div>
