@@ -1,6 +1,6 @@
 # Haadem
 
-Technology leader and entrepreneur focused on building scalable solutions at the intersection of AI, cloud infrastructure, and modern software architecture.
+Technology enthusiast and entrepreneur focused on building scalable solutions at the intersection of AI, cloud infrastructure, and modern software architecture.
 
 ## Current Ventures
 
