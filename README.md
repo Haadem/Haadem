@@ -30,7 +30,7 @@ Founder of **[Approach](https://approach.no/en)** and co-founder of **[Aeda](htt
 Public activity appears here when available. You can also browse my [repositories](https://github.com/Haadem?tab=repositories) and [stars](https://github.com/Haadem?tab=stars).
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Haadem/Haadem](https://github.com/Haadem/Haadem)<br>
+1. ⬆️ Pushed updates to [Haadem/Haadem](https://github.com/Haadem/Haadem)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
