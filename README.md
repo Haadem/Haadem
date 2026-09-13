@@ -1,50 +1,43 @@
-# Haadem
+![Haadem — AI, data and software. Built in Norway.](assets/profile-banner.svg)
 
-Technology enthusiast and entrepreneur focused on building scalable solutions at the intersection of AI, cloud infrastructure, and modern software architecture.
+# Hi, I’m Sven.
 
-## Current Ventures
+Developer and entrepreneur based in Norway. I build useful products with AI, data, and modern software—from early prototypes to production systems.
 
-**[Aeda](https://aeda.no)** — Data augmentation and enhancement platform leveraging machine learning to transform how businesses interact with their data.
+Founder of **[Approach](https://approach.no/en)** and co-founder of **[Aeda](https://aeda.no)**. My work connects product development, machine learning, and the infrastructure that brings them together.
 
-**[Enmodels](https://enmodels.com)** — Advanced modeling and simulation solutions for complex engineering challenges.
+## What I’m building
 
-**[Approach](https://approach.no)** — Strategic technology consulting, helping enterprises navigate digital transformation and adopt cutting-edge technologies.
+| Project | Focus |
+| :--- | :--- |
+| **[Approach](https://approach.no/en)** | Product development, AI, and technical direction. |
+| **[Aeda](https://aeda.no)** | Data sharing and enrichment for better analytics. |
+| **[ProsjektKlar](https://prosjektklar.no/en)** · at Approach | Building-project preparation, from property data to project drafts. |
+| **[Datakilde](https://approach.no/en/datakilde)** · at Approach | Norwegian building and property data through an API. |
 
-## Technical Expertise
+## Tools I work with
 
-### Core Technologies
-`Python` `Go` `JavaScript/TypeScript` `C/C++` `C#`
+| Area | Stack |
+| :--- | :--- |
+| Languages | Python · Go · TypeScript / JavaScript · C / C++ · C# |
+| AI & data | PyTorch · TensorFlow · Databricks · Apache Spark · MLOps |
+| Cloud & infrastructure | AWS · Google Cloud · Azure · Docker · Kubernetes · Terraform |
+| Architecture | Distributed systems · Event-driven systems · gRPC · REST · GraphQL |
 
-### Cloud & Infrastructure
-`AWS` `Google Cloud Platform` `Microsoft Azure` `Docker` `Kubernetes` `Terraform`
+<details>
+<summary><strong>Recent GitHub activity</strong></summary>
 
-### Data & AI
-`TensorFlow` `PyTorch` `Databricks` `Apache Spark` `MLOps`
-
-### Architecture
-`Microservices` `Event-Driven Systems` `gRPC` `REST APIs` `GraphQL`
-
-## Focus Areas
-
-- **Distributed Systems** — Building resilient, scalable architectures for high-performance applications
-- **Machine Learning Engineering** — Deploying ML models at scale with robust MLOps practices
-- **Cloud Native Development** — Leveraging modern cloud patterns for efficient, maintainable solutions
-- **Financial Technology** — Creating secure, compliant systems for modern financial services
-
-## Recent Activity
+Public activity appears here when available. You can also browse my [repositories](https://github.com/Haadem?tab=repositories) and [stars](https://github.com/Haadem?tab=stars).
 
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 13th, 2026, 9:41:06 AM
+Updated 13 Sep 2026 UTC
 <!--RECENT_ACTIVITY:last_update_end-->
+
+</details>
 
 ---
 
-<div align="center">
-  <a href="https://haadem.tech">Portfolio</a> •
-  <a href="https://aeda.no">Aeda</a> •
-  <a href="https://enmodels.com">Enmodels</a> •
-  <a href="https://approach.no">Approach</a>
-</div>
+Have something in mind? **[Let’s build it →](https://approach.no/en)**

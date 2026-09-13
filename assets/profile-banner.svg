@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Haadem — AI, data and software</title>
+  <desc id="desc">A deep green banner with cream typography and a geometric illustration of connected layers. Built in Norway.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#142923"/>
+      <stop offset="1" stop-color="#0C1C18"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#9DBDB0" fill-opacity=".13"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="url(#background)"/>
+  <rect x="650" width="550" height="340" fill="url(#grid)"/>
+  <path d="M56 55H86" stroke="#D3E7A5" stroke-width="3"/>
+  <text x="100" y="61" fill="#D3E7A5" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" letter-spacing="3">BUILT IN NORWAY</text>
+  <text x="52" y="179" fill="#F3F1E7" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="-4">HAADEM</text>
+  <text x="57" y="222" fill="#B6C9BF" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="1">AI, data &amp; software.</text>
+  <path d="M57 270H540" stroke="#B6C9BF" stroke-opacity=".22"/>
+  <text x="57" y="298" fill="#B6C9BF" font-family="Arial, Helvetica, sans-serif" font-size="14">From an idea to something useful.</text>
+  <g stroke-linejoin="round">
+    <path d="M752 230L924 145L1096 230L924 315Z" fill="#142E25" stroke="#557564"/>
+    <path d="M752 191L924 106L1096 191L924 276Z" fill="#1C3B2E" stroke="#86A080"/>
+    <path d="M752 152L924 67L1096 152L924 237Z" fill="#D3E7A5" stroke="#E5F2C8" stroke-width="1.5"/>
+    <path d="M809 124L981 209M867 95L1039 181M809 180L981 95M867 209L1039 124" stroke="#52794E" stroke-opacity=".4"/>
+    <path d="M752 152V230M924 237V315M1096 152V230" stroke="#A9C596" stroke-opacity=".65" stroke-dasharray="3 5"/>
+    <path d="M924 67V37H1119" stroke="#86A080" stroke-opacity=".6"/>
+    <circle cx="924" cy="67" r="5" fill="#142923" stroke="#D3E7A5" stroke-width="2"/>
+    <circle cx="924" cy="152" r="13" fill="#142923"/>
+    <circle cx="924" cy="152" r="5" fill="#D3E7A5"/>
+    <circle cx="1096" cy="230" r="5" fill="#EDAB78"/>
+    <circle cx="1119" cy="37" r="3" fill="#D3E7A5"/>
+  </g>
+</svg>
