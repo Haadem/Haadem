@@ -40,10 +40,11 @@ Look up a Norwegian address—or try the **Bergen City Hall** example—to explo
 Public activity appears here when available. You can also browse my [repositories](https://github.com/Haadem?tab=repositories) and [stars](https://github.com/Haadem?tab=stars).
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [morluto/rea](https://github.com/morluto/rea)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Updated 13 Oct 2026 UTC
+Updated 14 Oct 2026 UTC
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
